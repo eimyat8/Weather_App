@@ -19,4 +19,7 @@ A simple weather application built with React.js that fetches current weather da
 
 * Bootstrap: Styling for responsive and dynamic design.
 
+## Acknowledgements
+* [React.js Documentation](https://react.dev/)
+* [OpenWeather Api](https://openweathermap.org/)   
 
